@@ -40,7 +40,7 @@
 
 ## 📫 Контакты
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-](https://www.linkedin.com/in/end77/): LinkedIn
+](https://www.linkedin.com/in/end77) : LinkedIn
 
 
 
